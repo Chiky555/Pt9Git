@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("1a modificació Git");
 		System.out.println("2a modificació Git");
+		System.out.println("3a modificació Git");
 	}
 
 }
